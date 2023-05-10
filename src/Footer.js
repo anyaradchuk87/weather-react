@@ -14,20 +14,16 @@ export default function Footer() {
         >
           Anna Radchuk
         </a>{" "}
-        it's{" "}
+        it is{" "}
         <a
-          href=""
+          href="https://github.com/anyaradchuk87/weather-react"
           target="_blank"
           rel="noopener noreferrer"
         >
           open-sourced on GitHub
         </a>{" "}
         and{" "}
-        <a
-          href=""
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="" target="_blank" rel="noopener noreferrer">
           hosted on Netlify
         </a>
         .
