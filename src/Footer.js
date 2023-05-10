@@ -23,7 +23,11 @@ export default function Footer() {
           open-sourced on GitHub
         </a>{" "}
         and{" "}
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://github.com/anyaradchuk87/weather-react"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           hosted on Netlify
         </a>
         .
