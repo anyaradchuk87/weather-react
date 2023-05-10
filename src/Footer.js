@@ -24,7 +24,7 @@ export default function Footer() {
         </a>{" "}
         and{" "}
         <a
-          href="https://github.com/anyaradchuk87/weather-react"
+          href="https://master--amazing-macaron-c75439.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
