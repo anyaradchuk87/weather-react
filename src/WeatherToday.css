@@ -1,0 +1,49 @@
+.weather-today {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.city {
+  font-family: "Montserrat", sans-serif;
+  font-size: 45px;
+  font-weight: 700;
+  color: #36A9E1;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  margin-bottom: 5px;
+}
+
+.icon-today {
+  height: 100%;
+}
+
+.temperature {
+  font-family: "Montserrat", sans-serif;
+  color: #233878;
+  font-size: 80px;
+  font-weight: 700;
+  margin-left: 10px;
+}
+
+.unit {
+  color: #212121;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  top: -35px;
+}
+
+.unit a {
+  text-decoration: none;
+  color: #36A9E1;
+}

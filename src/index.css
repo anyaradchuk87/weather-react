@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: #f9f9f9;
+}
+
+h1,
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+h2 {
+  color: #393e46;
+}
+
+p {
+  color: #252a34;
+}
